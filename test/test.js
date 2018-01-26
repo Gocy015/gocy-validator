@@ -1,5 +1,5 @@
 var assert = require('assert')
-var validator = require('gocy-validator')
+var validator = require('../../gocy-validator')
 
 describe('Validator', function () {
     describe('#containsOnlyEnglish', function () {
